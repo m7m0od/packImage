@@ -1,0 +1,10 @@
+*{box-sizing: border-box;}
+body{background-color: black;}
+.row{margin-right: 0!important;margin-left: 0!important;}
+.forHeaders{margin-top: 80px!important;}
+.indexView p,ul{color: white;}
+.someIdits{background-color: white;width: 50%;position: absolute;top: 50%;left: 50%;margin-right: -50%;transform: translate(-50%, -50%);}
+.clr{clear: both;}
+.someIdits img{height: 95px;width: 400px;}
+.forPositon{position: absolute;right: 10px;top: 75%;}
+.form-group label{color: white;}
